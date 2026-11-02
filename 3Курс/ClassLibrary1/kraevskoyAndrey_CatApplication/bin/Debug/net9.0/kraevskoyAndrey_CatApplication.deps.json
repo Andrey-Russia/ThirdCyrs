@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "kraevskoyAndrey_CatApplication/1.0.0": {
+        "dependencies": {
+          "KraevskoyAndrey_CatFramework": "1.0.0"
+        },
+        "runtime": {
+          "kraevskoyAndrey_CatApplication.dll": {}
+        }
+      },
+      "KraevskoyAndrey_CatFramework/1.0.0": {
+        "runtime": {
+          "KraevskoyAndrey_CatFramework.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kraevskoyAndrey_CatApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KraevskoyAndrey_CatFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

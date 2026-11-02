@@ -1,0 +1,14 @@
+D:\Обучение\Колледж\C#\3Курс\MomsPatterns\MomsPatterns\bin\Debug\net9.0\MomsPatternsPrototype.exe
+D:\Обучение\Колледж\C#\3Курс\MomsPatterns\MomsPatterns\bin\Debug\net9.0\MomsPatternsPrototype.deps.json
+D:\Обучение\Колледж\C#\3Курс\MomsPatterns\MomsPatterns\bin\Debug\net9.0\MomsPatternsPrototype.runtimeconfig.json
+D:\Обучение\Колледж\C#\3Курс\MomsPatterns\MomsPatterns\bin\Debug\net9.0\MomsPatternsPrototype.dll
+D:\Обучение\Колледж\C#\3Курс\MomsPatterns\MomsPatterns\bin\Debug\net9.0\MomsPatternsPrototype.pdb
+D:\Обучение\Колледж\C#\3Курс\MomsPatterns\MomsPatterns\obj\Debug\net9.0\MomsPatternsPrototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Колледж\C#\3Курс\MomsPatterns\MomsPatterns\obj\Debug\net9.0\MomsPatternsPrototype.AssemblyInfoInputs.cache
+D:\Обучение\Колледж\C#\3Курс\MomsPatterns\MomsPatterns\obj\Debug\net9.0\MomsPatternsPrototype.AssemblyInfo.cs
+D:\Обучение\Колледж\C#\3Курс\MomsPatterns\MomsPatterns\obj\Debug\net9.0\MomsPatternsPrototype.csproj.CoreCompileInputs.cache
+D:\Обучение\Колледж\C#\3Курс\MomsPatterns\MomsPatterns\obj\Debug\net9.0\MomsPatternsPrototype.dll
+D:\Обучение\Колледж\C#\3Курс\MomsPatterns\MomsPatterns\obj\Debug\net9.0\refint\MomsPatternsPrototype.dll
+D:\Обучение\Колледж\C#\3Курс\MomsPatterns\MomsPatterns\obj\Debug\net9.0\MomsPatternsPrototype.pdb
+D:\Обучение\Колледж\C#\3Курс\MomsPatterns\MomsPatterns\obj\Debug\net9.0\MomsPatternsPrototype.genruntimeconfig.cache
+D:\Обучение\Колледж\C#\3Курс\MomsPatterns\MomsPatterns\obj\Debug\net9.0\ref\MomsPatternsPrototype.dll

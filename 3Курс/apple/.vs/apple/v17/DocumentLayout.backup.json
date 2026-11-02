@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\apple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2416E2-6FFC-445B-B3A7-9344DC0CE925}|apple\\apple.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\c#\\3\u043A\u0443\u0440\u0441\\apple\\apple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2416E2-6FFC-445B-B3A7-9344DC0CE925}|apple\\apple.csproj|solutionrelative:apple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\apple\\apple\\Program.cs",
+              "RelativeDocumentMoniker": "apple\\Program.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\apple\\apple\\Program.cs",
+              "RelativeToolTip": "apple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T16:30:02.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5281143-491D-483D-A053-60ADCD00EB1F}|Patterns\\Patterns.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\c#\\3\u043A\u0443\u0440\u0441\\patterns\\patterns\\archerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5281143-491D-483D-A053-60ADCD00EB1F}|Patterns\\Patterns.csproj|solutionrelative:patterns\\archerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5281143-491D-483D-A053-60ADCD00EB1F}|Patterns\\Patterns.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\c#\\3\u043A\u0443\u0440\u0441\\patterns\\patterns\\warriorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5281143-491D-483D-A053-60ADCD00EB1F}|Patterns\\Patterns.csproj|solutionrelative:patterns\\warriorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5281143-491D-483D-A053-60ADCD00EB1F}|Patterns\\Patterns.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\c#\\3\u043A\u0443\u0440\u0441\\patterns\\patterns\\enemyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5281143-491D-483D-A053-60ADCD00EB1F}|Patterns\\Patterns.csproj|solutionrelative:patterns\\enemyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5281143-491D-483D-A053-60ADCD00EB1F}|Patterns\\Patterns.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\c#\\3\u043A\u0443\u0440\u0441\\patterns\\patterns\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5281143-491D-483D-A053-60ADCD00EB1F}|Patterns\\Patterns.csproj|solutionrelative:patterns\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5281143-491D-483D-A053-60ADCD00EB1F}|Patterns\\Patterns.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\c#\\3\u043A\u0443\u0440\u0441\\patterns\\patterns\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5281143-491D-483D-A053-60ADCD00EB1F}|Patterns\\Patterns.csproj|solutionrelative:patterns\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5281143-491D-483D-A053-60ADCD00EB1F}|Patterns\\Patterns.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\c#\\3\u043A\u0443\u0440\u0441\\patterns\\patterns\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5281143-491D-483D-A053-60ADCD00EB1F}|Patterns\\Patterns.csproj|solutionrelative:patterns\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5281143-491D-483D-A053-60ADCD00EB1F}|Patterns\\Patterns.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\c#\\3\u043A\u0443\u0440\u0441\\patterns\\patterns\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5281143-491D-483D-A053-60ADCD00EB1F}|Patterns\\Patterns.csproj|solutionrelative:patterns\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5281143-491D-483D-A053-60ADCD00EB1F}|Patterns\\Patterns.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\c#\\3\u043A\u0443\u0440\u0441\\patterns\\patterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5281143-491D-483D-A053-60ADCD00EB1F}|Patterns\\Patterns.csproj|solutionrelative:patterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5281143-491D-483D-A053-60ADCD00EB1F}|Patterns\\Patterns.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\c#\\3\u043A\u0443\u0440\u0441\\patterns\\patterns\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5281143-491D-483D-A053-60ADCD00EB1F}|Patterns\\Patterns.csproj|solutionrelative:patterns\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\Patterns\\Game.cs",
+              "RelativeDocumentMoniker": "Patterns\\Game.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\Patterns\\Game.cs",
+              "RelativeToolTip": "Patterns\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:44:27.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArcherFactory.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\Patterns\\ArcherFactory.cs",
+              "RelativeDocumentMoniker": "Patterns\\ArcherFactory.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\Patterns\\ArcherFactory.cs",
+              "RelativeToolTip": "Patterns\\ArcherFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:43:49.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WarriorFactory.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\Patterns\\WarriorFactory.cs",
+              "RelativeDocumentMoniker": "Patterns\\WarriorFactory.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\Patterns\\WarriorFactory.cs",
+              "RelativeToolTip": "Patterns\\WarriorFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:43:08.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyFactory.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\Patterns\\EnemyFactory.cs",
+              "RelativeDocumentMoniker": "Patterns\\EnemyFactory.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\Patterns\\EnemyFactory.cs",
+              "RelativeToolTip": "Patterns\\EnemyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:36:33.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Archer.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\Patterns\\Archer.cs",
+              "RelativeDocumentMoniker": "Patterns\\Archer.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\Patterns\\Archer.cs",
+              "RelativeToolTip": "Patterns\\Archer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:34:08.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\Patterns\\Warrior.cs",
+              "RelativeDocumentMoniker": "Patterns\\Warrior.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\Patterns\\Warrior.cs",
+              "RelativeToolTip": "Patterns\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:29:52.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\Patterns\\Enemy.cs",
+              "RelativeDocumentMoniker": "Patterns\\Enemy.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\Patterns\\Enemy.cs",
+              "RelativeToolTip": "Patterns\\Enemy.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvwsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:25:23.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\Patterns\\Weapon.cs",
+              "RelativeDocumentMoniker": "Patterns\\Weapon.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\Patterns\\Weapon.cs",
+              "RelativeToolTip": "Patterns\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:12:57.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\Patterns\\Program.cs",
+              "RelativeDocumentMoniker": "Patterns\\Program.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\Patterns\\Patterns\\Program.cs",
+              "RelativeToolTip": "Patterns\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:12:23.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

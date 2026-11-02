@@ -1,0 +1,14 @@
+D:\Обучение\Колледж\C#\3Курс\Kt1Massiv\Kt1Massiv\bin\Debug\net9.0\Kt1Massiv.exe
+D:\Обучение\Колледж\C#\3Курс\Kt1Massiv\Kt1Massiv\bin\Debug\net9.0\Kt1Massiv.deps.json
+D:\Обучение\Колледж\C#\3Курс\Kt1Massiv\Kt1Massiv\bin\Debug\net9.0\Kt1Massiv.runtimeconfig.json
+D:\Обучение\Колледж\C#\3Курс\Kt1Massiv\Kt1Massiv\bin\Debug\net9.0\Kt1Massiv.dll
+D:\Обучение\Колледж\C#\3Курс\Kt1Massiv\Kt1Massiv\bin\Debug\net9.0\Kt1Massiv.pdb
+D:\Обучение\Колледж\C#\3Курс\Kt1Massiv\Kt1Massiv\obj\Debug\net9.0\Kt1Massiv.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Колледж\C#\3Курс\Kt1Massiv\Kt1Massiv\obj\Debug\net9.0\Kt1Massiv.AssemblyInfoInputs.cache
+D:\Обучение\Колледж\C#\3Курс\Kt1Massiv\Kt1Massiv\obj\Debug\net9.0\Kt1Massiv.AssemblyInfo.cs
+D:\Обучение\Колледж\C#\3Курс\Kt1Massiv\Kt1Massiv\obj\Debug\net9.0\Kt1Massiv.csproj.CoreCompileInputs.cache
+D:\Обучение\Колледж\C#\3Курс\Kt1Massiv\Kt1Massiv\obj\Debug\net9.0\Kt1Massiv.dll
+D:\Обучение\Колледж\C#\3Курс\Kt1Massiv\Kt1Massiv\obj\Debug\net9.0\refint\Kt1Massiv.dll
+D:\Обучение\Колледж\C#\3Курс\Kt1Massiv\Kt1Massiv\obj\Debug\net9.0\Kt1Massiv.pdb
+D:\Обучение\Колледж\C#\3Курс\Kt1Massiv\Kt1Massiv\obj\Debug\net9.0\Kt1Massiv.genruntimeconfig.cache
+D:\Обучение\Колледж\C#\3Курс\Kt1Massiv\Kt1Massiv\obj\Debug\net9.0\ref\Kt1Massiv.dll

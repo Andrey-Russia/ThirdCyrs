@@ -1,0 +1,4 @@
+D:\Обучение\Колледж\C#\3Курс\apple\apple\obj\Debug\net9.0\apple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Колледж\C#\3Курс\apple\apple\obj\Debug\net9.0\apple.AssemblyInfoInputs.cache
+D:\Обучение\Колледж\C#\3Курс\apple\apple\obj\Debug\net9.0\apple.AssemblyInfo.cs
+D:\Обучение\Колледж\C#\3Курс\apple\apple\obj\Debug\net9.0\apple.csproj.CoreCompileInputs.cache

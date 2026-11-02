@@ -1,0 +1,11 @@
+D:\Обучение\Колледж\C#\3Курс\ClassLibrary1\ClassLibrary1\bin\Debug\net9.0\KraevskoyAndrey_CatFramework.deps.json
+D:\Обучение\Колледж\C#\3Курс\ClassLibrary1\ClassLibrary1\bin\Debug\net9.0\KraevskoyAndrey_CatFramework.dll
+D:\Обучение\Колледж\C#\3Курс\ClassLibrary1\ClassLibrary1\bin\Debug\net9.0\KraevskoyAndrey_CatFramework.pdb
+D:\Обучение\Колледж\C#\3Курс\ClassLibrary1\ClassLibrary1\obj\Debug\net9.0\KraevskoyAndrey_CatFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Колледж\C#\3Курс\ClassLibrary1\ClassLibrary1\obj\Debug\net9.0\KraevskoyAndrey_CatFramework.AssemblyInfoInputs.cache
+D:\Обучение\Колледж\C#\3Курс\ClassLibrary1\ClassLibrary1\obj\Debug\net9.0\KraevskoyAndrey_CatFramework.AssemblyInfo.cs
+D:\Обучение\Колледж\C#\3Курс\ClassLibrary1\ClassLibrary1\obj\Debug\net9.0\KraevskoyAndrey_CatFramework.csproj.CoreCompileInputs.cache
+D:\Обучение\Колледж\C#\3Курс\ClassLibrary1\ClassLibrary1\obj\Debug\net9.0\KraevskoyAndrey_CatFramework.dll
+D:\Обучение\Колледж\C#\3Курс\ClassLibrary1\ClassLibrary1\obj\Debug\net9.0\refint\KraevskoyAndrey_CatFramework.dll
+D:\Обучение\Колледж\C#\3Курс\ClassLibrary1\ClassLibrary1\obj\Debug\net9.0\KraevskoyAndrey_CatFramework.pdb
+D:\Обучение\Колледж\C#\3Курс\ClassLibrary1\ClassLibrary1\obj\Debug\net9.0\ref\KraevskoyAndrey_CatFramework.dll

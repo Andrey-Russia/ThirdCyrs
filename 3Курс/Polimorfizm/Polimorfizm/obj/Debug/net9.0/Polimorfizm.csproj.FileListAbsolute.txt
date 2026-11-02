@@ -1,0 +1,14 @@
+D:\Обучение\Колледж\C#\3Курс\Polimorfizm\Polimorfizm\bin\Debug\net9.0\Polimorfizm.exe
+D:\Обучение\Колледж\C#\3Курс\Polimorfizm\Polimorfizm\bin\Debug\net9.0\Polimorfizm.deps.json
+D:\Обучение\Колледж\C#\3Курс\Polimorfizm\Polimorfizm\bin\Debug\net9.0\Polimorfizm.runtimeconfig.json
+D:\Обучение\Колледж\C#\3Курс\Polimorfizm\Polimorfizm\bin\Debug\net9.0\Polimorfizm.dll
+D:\Обучение\Колледж\C#\3Курс\Polimorfizm\Polimorfizm\bin\Debug\net9.0\Polimorfizm.pdb
+D:\Обучение\Колледж\C#\3Курс\Polimorfizm\Polimorfizm\obj\Debug\net9.0\Polimorfizm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Колледж\C#\3Курс\Polimorfizm\Polimorfizm\obj\Debug\net9.0\Polimorfizm.AssemblyInfoInputs.cache
+D:\Обучение\Колледж\C#\3Курс\Polimorfizm\Polimorfizm\obj\Debug\net9.0\Polimorfizm.AssemblyInfo.cs
+D:\Обучение\Колледж\C#\3Курс\Polimorfizm\Polimorfizm\obj\Debug\net9.0\Polimorfizm.csproj.CoreCompileInputs.cache
+D:\Обучение\Колледж\C#\3Курс\Polimorfizm\Polimorfizm\obj\Debug\net9.0\Polimorfizm.dll
+D:\Обучение\Колледж\C#\3Курс\Polimorfizm\Polimorfizm\obj\Debug\net9.0\refint\Polimorfizm.dll
+D:\Обучение\Колледж\C#\3Курс\Polimorfizm\Polimorfizm\obj\Debug\net9.0\Polimorfizm.pdb
+D:\Обучение\Колледж\C#\3Курс\Polimorfizm\Polimorfizm\obj\Debug\net9.0\Polimorfizm.genruntimeconfig.cache
+D:\Обучение\Колледж\C#\3Курс\Polimorfizm\Polimorfizm\obj\Debug\net9.0\ref\Polimorfizm.dll
