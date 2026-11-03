@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\MothersPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D7CBF18-B0FA-4EFD-A703-FD47DA7CE60D}|MothersPatterns\\MothersPatterns.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\c#\\3\u043A\u0443\u0440\u0441\\motherspatterns\\motherspatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D7CBF18-B0FA-4EFD-A703-FD47DA7CE60D}|MothersPatterns\\MothersPatterns.csproj|solutionrelative:motherspatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D7CBF18-B0FA-4EFD-A703-FD47DA7CE60D}|MothersPatterns\\MothersPatterns.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\c#\\3\u043A\u0443\u0440\u0441\\motherspatterns\\motherspatterns\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7CBF18-B0FA-4EFD-A703-FD47DA7CE60D}|MothersPatterns\\MothersPatterns.csproj|solutionrelative:motherspatterns\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7CBF18-B0FA-4EFD-A703-FD47DA7CE60D}|MothersPatterns\\MothersPatterns.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\c#\\3\u043A\u0443\u0440\u0441\\motherspatterns\\motherspatterns\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7CBF18-B0FA-4EFD-A703-FD47DA7CE60D}|MothersPatterns\\MothersPatterns.csproj|solutionrelative:motherspatterns\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7CBF18-B0FA-4EFD-A703-FD47DA7CE60D}|MothersPatterns\\MothersPatterns.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\c#\\3\u043A\u0443\u0440\u0441\\motherspatterns\\motherspatterns\\pattern1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7CBF18-B0FA-4EFD-A703-FD47DA7CE60D}|MothersPatterns\\MothersPatterns.csproj|solutionrelative:motherspatterns\\pattern1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7CBF18-B0FA-4EFD-A703-FD47DA7CE60D}|MothersPatterns\\MothersPatterns.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\c#\\3\u043A\u0443\u0440\u0441\\motherspatterns\\motherspatterns\\factory method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7CBF18-B0FA-4EFD-A703-FD47DA7CE60D}|MothersPatterns\\MothersPatterns.csproj|solutionrelative:motherspatterns\\factory method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7CBF18-B0FA-4EFD-A703-FD47DA7CE60D}|MothersPatterns\\MothersPatterns.csproj|d:\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\c#\\3\u043A\u0443\u0440\u0441\\motherspatterns\\motherspatterns\\abstract factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7CBF18-B0FA-4EFD-A703-FD47DA7CE60D}|MothersPatterns\\MothersPatterns.csproj|solutionrelative:motherspatterns\\abstract factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\MothersPatterns\\MothersPatterns\\Program.cs",
-              "RelativeDocumentMoniker": "MothersPatterns\\Program.cs",
-              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\MothersPatterns\\MothersPatterns\\Program.cs",
-              "RelativeToolTip": "MothersPatterns\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\MothersPatterns\\MothersPatterns\\Singleton.cs",
+              "RelativeDocumentMoniker": "MothersPatterns\\Singleton.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\MothersPatterns\\MothersPatterns\\Singleton.cs",
+              "RelativeToolTip": "MothersPatterns\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T08:20:37.141Z",
+              "WhenOpened": "2026-11-02T09:53:47.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Builder.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\MothersPatterns\\MothersPatterns\\Builder.cs",
+              "RelativeDocumentMoniker": "MothersPatterns\\Builder.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\MothersPatterns\\MothersPatterns\\Builder.cs",
+              "RelativeToolTip": "MothersPatterns\\Builder.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwFAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T09:43:29.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Abstract Factory.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\MothersPatterns\\MothersPatterns\\Abstract Factory.cs",
+              "RelativeDocumentMoniker": "MothersPatterns\\Abstract Factory.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\MothersPatterns\\MothersPatterns\\Abstract Factory.cs",
+              "RelativeToolTip": "MothersPatterns\\Abstract Factory.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwFoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T09:26:08.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Factory Method.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\MothersPatterns\\MothersPatterns\\Factory Method.cs",
+              "RelativeDocumentMoniker": "MothersPatterns\\Factory Method.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\MothersPatterns\\MothersPatterns\\Factory Method.cs",
+              "RelativeToolTip": "MothersPatterns\\Factory Method.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvykAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T09:01:44.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pattern1.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\MothersPatterns\\MothersPatterns\\Pattern1.cs",
+              "RelativeDocumentMoniker": "MothersPatterns\\Pattern1.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\C#\\3\u041A\u0443\u0440\u0441\\MothersPatterns\\MothersPatterns\\Pattern1.cs",
+              "RelativeToolTip": "MothersPatterns\\Pattern1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA0wC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T08:36:15.092Z",
               "EditorCaption": ""
             }
           ]
